@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals
+# Test Triggers Build via Push
 
 Repo for the `GitHub Actions Fundamentals` training.
 
